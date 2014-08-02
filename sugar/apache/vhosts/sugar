@@ -1,0 +1,7 @@
+# TODO - CHANGE URLS & FOLDERS
+<VirtualHost *:80>
+	ServerName <YOUR_SUGAR_URL>
+	DocumentRoot /var/www/<YOUR_SUGAR_INSTALL_FOLDER>
+	ErrorLog "/var/log/apache2/error-sugarcrm.log"
+	CustomLog "/var/log/apache2/access-sugarcrm.log" common
+</VirtualHost>
