@@ -28,3 +28,7 @@ This is a sample salt configuration for SugarCRM.
 **Then back on the minion**
 
  1. sudo salt-call -l debug state.highstate
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/shano/salted_sugar/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
